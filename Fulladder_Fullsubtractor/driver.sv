@@ -17,8 +17,6 @@ class driver;
     vif.a <= trans.a;
     vif.b <= trans.b;
     vif.c <= trans.c;
-    //vif.sum <= trans.sum;
-    //vif.carry <= trans.carry;
  	
       $display("%0t driver: a= %0b, b= %0b, c= %0b, sum= %0b, carry= %0b, diff= %0b, borrow= %0b", $time, trans.a, trans.b, trans.c, trans.sum, trans.carry, trans.diff, trans.borrow);
   
