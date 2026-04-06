@@ -10,6 +10,7 @@ In this project, I designed a Mealy Finite State Machine (FSM) to detect an over
 
 ## Tools Used
 - EDA Playground (Aldec Riviera-PRO)
+  - https://www.edaplayground.com/x/GQB5
 
 ---
 Thank you for your precious time and patience. Author: Mohanraj. A
